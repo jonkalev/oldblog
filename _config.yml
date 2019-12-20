@@ -2,17 +2,17 @@
 
 
 # Name of website
-title:    JON KALEV   
+title:    TWO DEAD GIRLS 
 
 # Short description of your site
-description: Documentary Photographer Jon Kalev
+description: Podcast about the unsolved murders of JB Beasley and Tracie Hawlett
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://jonkalev.com"
+#url: "https://twodeadgirls.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,21 +21,21 @@ description: Documentary Photographer Jon Kalev
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
-  Podcast: "podcast"
-  Writing: "https://medium.com/@jonkalev"
-  Works: "order"
-  Support: "donate"
+  Home: "about"
+  Episodes: "podcast"
+  Timeline: "http://jonkalev.com/bh-timeline/"
+  Documents: "order"
+  Subscribe: "donate"
 
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img: /img/avatar-icon.png
 
 # --- Background colour/image options --- #
 
@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jon Kalev
+  name: Two Dead Girls
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -80,7 +80,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: 
 
-  instagram: jonandmicco
+ # instagram: jonandmicco
 #  youtube: user/
 #  spotify: yourname
 #  telephone: +
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jonkalev.com"  # eg. "https://jonkalev.github.io"
+url-pretty: "twodeadgirls.com"  # eg. "https://twodeadgirls.github.io"
 
 # --- Web Statistics Section --- #
 
