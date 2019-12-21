@@ -5,7 +5,8 @@ subtitle: null
 img: /img/hello_world.jpeg
 published: true
 ---
-
+<link rel="stylesheet" href="css/justifiedGallery.css" />
+<script src="js/jquery.justifiedGallery.js"></script>
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg" alt=" My dog Micco and me">
   <figcaption> Micco and me on the streets of Silverton Colorado</figcaption>
