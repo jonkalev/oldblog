@@ -9,6 +9,16 @@ published: true
 <script src="js/jquery.justifiedGallery.js"></script>
 $("#mygallery").justifiedGallery();
 
+<div id="mygallery" >
+    <a href="path/to/myimage1_original.jpg">
+        <img alt="Test" src="Justified-Gallery/test/photos/6791628438_affaa19e10.jpg"/>
+    </a>
+    <a href="path/to/myimage2_original.jpg">
+        <img alt="Title 2" src="path/to/myimage2_thumbnail.jpg"/>
+    </a>
+    <!-- other images... -->
+</div>
+
 
 <figure>
 <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg" alt=" My dog Micco and me">
