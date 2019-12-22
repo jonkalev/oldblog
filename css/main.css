@@ -4,11 +4,12 @@ published: true
 ---
 
 @import url("pygment_highlights.css");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,900");
 
 /* --- General --- */
 
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
   color: #404040;
   position: relative;
