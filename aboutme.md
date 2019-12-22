@@ -11,8 +11,7 @@ published: true
   <figcaption> Micco and me on the streets of Silverton Colorado</figcaption>
   </figure>
 <br  />
-<p>
-<strong>Statement</strong>
+
 <p> Multidisciplinary visual artist and rancher.
   <p>
   I use photography to document how landscapes influence social judgment, motivation, and behavior. This includes still images, video and drawings which offers understanding how physical form influences social goals and political attitudes by the underlying repetitive physical-level experience.
