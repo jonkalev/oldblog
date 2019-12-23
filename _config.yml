@@ -22,10 +22,9 @@ description: Podcast about the unsolved murders of JB Beasley and Tracie Hawlett
 # List of links in the navigation bar
 navbar-links:
   Works: ""
-  Journal: ""
   About: "aboutme"
   Contact: ""
-  Subscribe: ""
+  Journal: ""
 
 
 
