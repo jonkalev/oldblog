@@ -1,18 +1,17 @@
 # --- General options --- #
 
-
 # Name of website
-title:  KÄLEV 
+title: My website
 
 # Short description of your site
-description: Podcast about the unsolved murders of JB Beasley and Tracie Hawlett
+description: A virtual proof that I'm awesome
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
-# url is the the website domain URL without a trailing slash
-#url: "https://twodeadgirls.com"
+ url is the the website domain URL without a trailing slash
+url: "https://jonkalev.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,13 +20,50 @@ description: Podcast about the unsolved murders of JB Beasley and Tracie Hawlett
 
 # List of links in the navigation bar
 navbar-links:
-   Works:
+  Works: "aboutme"
+  About:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  About: "aboutme"
-  Contact: ""
-  Journal: ""
+  Contact: "http://deanattali.com"
+  Blog: "http://deanattali.com"
 
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar-icon.png"
+
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: /path/to/image
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Some Person
+# Name of website
+title:  KÄLEV 
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
