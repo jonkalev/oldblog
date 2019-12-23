@@ -227,7 +227,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background-color: {{ site.navbar-children-col }};
+  background-color: #ffffff;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -255,7 +255,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #ffffff;
+    border: 0px solid #ffffff;
     border-width: 0 1px 1px;
   }
 }
@@ -267,7 +267,7 @@ footer {
   border-top: 0px #FFFFFF solid;
   margin-top: 50px;
   font-size: 14px;
-  background-color: {{ site.footer-col }};
+  background-color: #ffffff;
   {% if site.footer-img %}
   background-image: url({{ site.footer-img | relative_url }});
   background-attachment: fixed;
