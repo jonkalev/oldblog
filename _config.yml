@@ -21,7 +21,9 @@ description: Podcast about the unsolved murders of JB Beasley and Tracie Hawlett
 
 # List of links in the navigation bar
 navbar-links:
-  Works: ""
+  Works:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
   Journal: ""
   About: "aboutme"
   Contact: ""
