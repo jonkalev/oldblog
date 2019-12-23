@@ -24,7 +24,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 a {
@@ -109,7 +109,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  border-bottom: 1px solid #EAEAEA;
+  border-bottom: 1px solid #FFFFFF;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img | relative_url }});
@@ -264,7 +264,7 @@ img {
 
 footer {
   padding: 30px 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: 0px #FFFFFF solid;
   margin-top: 50px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
@@ -475,7 +475,7 @@ footer .copyright {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -500,7 +500,7 @@ footer .copyright {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -529,7 +529,7 @@ footer .copyright {
 
 .header-section.has-img .no-img {
   margin-top: 0;
-  background-color: #FCFCFC;
+  background-color: #FFFFFF;
   margin: 0 0 40px;
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
@@ -817,7 +817,7 @@ Flexbox is used as a fallback so that browsers which don't support grid will sti
 
 body {
 	min-height: 100vh;
-	background-color: #fafafa;
+	background-color: #FFFFFF;
 }
 
 .container {
@@ -827,7 +827,7 @@ body {
 }
 
 .heading {
-	font-family: "Montserrat", Arial, sans-serif;
+	font-family: "Lato", Arial, sans-serif;
 	font-size: 4rem;
 	font-weight: 500;
 	line-height: 1.5;
