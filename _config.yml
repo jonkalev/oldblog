@@ -5,14 +5,14 @@
 title:  KÄLEV 
 
 # Short description of your site
-description: Podcast about the unsolved murders of JB Beasley and Tracie Hawlett
+description: Photography of Jon Kalev
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://twodeadgirls.com"
+#url: "https://jonkalev.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -42,7 +42,7 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#F3F3F3"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -81,7 +81,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: 
 
- # instagram: jonandmicco
+  instagram: jonandmicco
 #  youtube: user/
 #  spotify: yourname
 #  telephone: +
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "twodeadgirls.com"  # eg. "https://twodeadgirls.github.io"
+url-pretty: "jonlalev.com"  # eg. "https://jonkalev.github.io"
 
 # --- Web Statistics Section --- #
 
