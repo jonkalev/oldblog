@@ -14,27 +14,26 @@ published: true
 <strong><i>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</i>
 Paul Stars</strong>
 
-<p> I'm a Rancher with a camera.
+<p> Multidisciplinary visual artist and rancher.
   <p>
-    Not sure I ever thought I would be a rancher, my grandfather was a cattleman as was his and father before him. 
-    Just when your life and education lead you away I decided at fifty to change course and buy my family's ranch. 
-    Ranching requires days on end in solitude. You make a 100 decisions a day based on what your instincts are.
-    It is hard, brutal, physical work that deeply connects you to the landscape.
+    Not sure I ever thought I would grow up to be a rancher, my grandfather was a cattleman, as was his and father before him.   So its defintiely hardwired into my dna.  
+    Just when your life and education lead you in ways that seem meaningless I decided to change course and buy my family's ranch. <p>
+    Ranching requires days on end working in solitude.
+    It is hard physical work that deeply connects you to the landscape. But in that connection is a sublime beauty. I try to write about these experiences and photograph my community.
 
-  <p>I'm self-taught photographer, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Drawing and graphic skills honed @ Auburn University's School of Architecture while obtaining an degree in architecture.
 
 <p>Inspirations, <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>, <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 <p>
-<strong>Equipment</strong> 
+
  <p>Equipment used is a Fuji XPro2 (stills) and XT-3 (video) along with <a href="https://www.fujifilmusa.com/products/digital_cameras/x-lenses/">their fixed x series lenses- 16/23/35/56</a>. Fuji’s system is small weatherproof and very durable. It's sensor captures a gorgeous spectrum of color.  
-   Seasonally I work as a mountain guide<a href="https://www.sanjuanbackcountry.com"> (click to book a trip) </a> in the wilderness of the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. 
+   Seasonally ( June-August) I work as a mountain guide<a href="https://www.sanjuanbackcountry.com"> (click to book a trip) </a> in the wilderness of the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. 
 Digitally I keep things minimal using an iPad pro, editing kept to a minimum. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page to record my ideas. The core idea is mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop. If I can't do all I need to do on the hood of my truck then it does'nt work.
 
    <br  />
 <p>
-<strong>Recent</strong>
+<strong>Recent work</strong>
   <p> 2018 Back to Malheur: Two Years Later, PBS
   
   <p>2016 <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon to protest a ranching family’s incarceration. The film was nominated for the Best Documentary at the Denver International Film Festival and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
