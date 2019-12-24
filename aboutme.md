@@ -11,7 +11,7 @@ published: true
   <figcaption> Calving season</figcaption>
   </figure>
 <br  />
-<strong>"The dark space is ranching, ranching's realm is really then, definable as where most people are absent."
+<strong><i>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</i>
 Paul Stars</strong>
 
 <p> Rancher with a camera.
