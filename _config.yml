@@ -22,8 +22,10 @@ description: Photography of Jon Kalev
 # List of links in the navigation bar
 navbar-links:
   projects:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Save the Kennys: "https://jonkalev.com/gallery/"
+    - Malheur: "https://jonkalev.com/gallery/"
+    - Alabama's Black Belt: "https://jonkalev.com/gallery/"
+    
   blog: ""
   About: "aboutme"
   Contact: ""
