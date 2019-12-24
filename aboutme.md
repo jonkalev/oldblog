@@ -8,19 +8,19 @@ published: true
 
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/ME-20191221-DSCF2555+copy.jpg" alt="Calving season">
-  <figcaption> Calving season</figcaption>
+  <figcaption> Calving season at Mathison's Pond</figcaption>
   </figure>
 <br  />
 <i>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</i>
-<p>Paul Stars
+<p>-Paul Stars
 
 <p> Multidisciplinary visual artist and rancher.
   <p>
-    I never thought I would be a rancher, even though my grandfather was a cattleman, as was his and his father before him.  
-    When my life and education lead you in ways that are soulless I changed course and bought my family's ranch.  <p>
+    I never thought I would be a rancher, even though my grandfather was a cattleman, as was his, and his father before him.  
+    When my life and education led me to the soulless path I changed course and bought my family's ranch.  <p>
     Ranching requires days on end working in solitude.
-    It is hard physical work that deeply connects you to the landscape. But in that connection is a sublime beauty. I try to write about these experiences and photograph my community.
-   I write about my experiences on my blog and medium.
+    It is hard, physical work that connects you to the land. But in that connection is sublime beauty. I try to write about these experiences and photograph them on this site.
+  
 
 
 <p>Inspiration:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
