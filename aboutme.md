@@ -11,12 +11,12 @@ published: true
   <figcaption> Calving season</figcaption>
   </figure>
 <br  />
-<strong><i>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</i></strong>
-<p> <strong>Paul Stars</strong>
+<i>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</i>
+<p>Paul Stars
 
 <p> Multidisciplinary visual artist and rancher.
   <p>
-    Not sure I ever thought I would grow up to be a rancher, my grandfather was a cattleman, as was his and father before him.   So its defintiely hardwired into my dna.  
+    I never thought I would be a rancher, even though my grandfather was a cattleman, as was his and his father before him.  
     When my life and education lead you in ways that are soulless I changed course and bought my family's ranch.  <p>
     Ranching requires days on end working in solitude.
     It is hard physical work that deeply connects you to the landscape. But in that connection is a sublime beauty. I try to write about these experiences and photograph my community.
