@@ -14,17 +14,16 @@ published: true
 <strong><i>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</i>
 Paul Stars</strong>
 
-<p> Rancher with a camera.
+<p> I'm a Rancher with a camera.
   <p>
     Not sure I ever thought I would be a rancher, my grandfather was a cattleman as was his and father before him. 
     Just when your life and education lead you away I decided at fifty to change course and buy my family's ranch. 
-    Ranching requires days on end in solitude. You make a 100 decisions a day based on what you see ad often what your instincts are.
-    It is hard brutal physical work that deeply connects you to the landscape
-  I use photography to document how landscapes influence social judgment, motivation, and behavior. This includes still images, video and drawings which offers understanding how physical form influences social goals and political attitudes by the underlying repetitive physical-level experience.
-  Interested in researching ethnically segregated communities by investigating interactions between urban form (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and effects on social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, hate crimes and intergroup cooperation or conflict). 
-  <p>I'm a self-taught photographer, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Drawing and graphic skills honed @ Auburn University's School of Architecture while obtaining an degree in architecture.
+    Ranching requires days on end in solitude. You make a 100 decisions a day based on what your instincts are.
+    It is hard, brutal, physical work that deeply connects you to the landscape.
 
-<p>Inspirations, <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>, <a href="https://en.wikipedia.org/wiki/Carl_Rogers">Carl Rogers</a> Seligman's <a href="https://www.huffingtonpost.com/david-sze/the-father-of-positive-ps_b_7600226.html">Perma model</a> and photographers <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+  <p>I'm self-taught photographer, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Drawing and graphic skills honed @ Auburn University's School of Architecture while obtaining an degree in architecture.
+
+<p>Inspirations, <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>, <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>, <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 <p>
@@ -45,10 +44,4 @@ Digitally I keep things minimal using an iPad pro, editing kept to a minimum. Wi
 
   <br  />
 <p>
-<strong>Education</strong>
-  
-<p>
-Harvard University, Post Grad English Literature, 2013.
-Auburn University, Masters Landscape Architecture, 2008.
-Auburn University, BS Architecture 1998.
-Auburn University, BA Environmental Design 1990.
+
