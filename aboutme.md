@@ -7,15 +7,19 @@ published: true
 ---
 
 <figure>
-<img src="https://jonkalev.s3-us-west-2.amazonaws.com/ME-20191221-DSCF2555+copy.jpg" alt=" My dog Micco and me">
-  <figcaption> Micco and me on the streets of Silverton Colorado</figcaption>
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/ME-20191221-DSCF2555+copy.jpg" alt="Calving season">
+  <figcaption> Calving season</figcaption>
   </figure>
 <br  />
-" The dark space is ranching, ranching's realm is really then, definable as where most people are absent."
-Paul Stars
+<strong>"The dark space is ranching, ranching's realm is really then, definable as where most people are absent."
+Paul Stars</strong>
 
 <p> Rancher with a camera.
   <p>
+    Not sure I ever thought I would be a rancher, my grandfather was a cattleman as was his and father before him. 
+    Just when your life and education lead you away I decided at fifty to change course and buy my family's ranch. 
+    Ranching requires days on end in solitude. You make a 100 decisions a day based on what you see ad often what your instincts are.
+    It is hard brutal physical work that deeply connects you to the landscape
   I use photography to document how landscapes influence social judgment, motivation, and behavior. This includes still images, video and drawings which offers understanding how physical form influences social goals and political attitudes by the underlying repetitive physical-level experience.
   Interested in researching ethnically segregated communities by investigating interactions between urban form (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and effects on social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, hate crimes and intergroup cooperation or conflict). 
   <p>I'm a self-taught photographer, introduced to the medium while in graduate school and studying the works of <a href="https://en.wikipedia.org/wiki/J._B._Jackson">J.B. Jackson</a>. Drawing and graphic skills honed @ Auburn University's School of Architecture while obtaining an degree in architecture.
