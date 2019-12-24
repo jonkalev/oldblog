@@ -7,12 +7,14 @@ published: true
 ---
 
 <figure>
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/witness.jpg" alt=" My dog Micco and me">
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/ME-20191221-DSCF2555+copy.jpg" alt=" My dog Micco and me">
   <figcaption> Micco and me on the streets of Silverton Colorado</figcaption>
   </figure>
 <br  />
+" The dark space is ranching, ranching's realm is really then, definable as where most people are absent."
+Paul Stars
 
-<p> Multidisciplinary visual artist and rancher.
+<p> Rancher with a camera.
   <p>
   I use photography to document how landscapes influence social judgment, motivation, and behavior. This includes still images, video and drawings which offers understanding how physical form influences social goals and political attitudes by the underlying repetitive physical-level experience.
   Interested in researching ethnically segregated communities by investigating interactions between urban form (e.g., emotion, social cognition, motivation, attitudes, and belief systems) and effects on social behavior (e.g., persuasion, communication, decision making, stereotyping, political behavior, hate crimes and intergroup cooperation or conflict). 
