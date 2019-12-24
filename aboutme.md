@@ -20,18 +20,13 @@ published: true
     When my life and education lead you in ways that are soulless I changed course and bought my family's ranch.  <p>
     Ranching requires days on end working in solitude.
     It is hard physical work that deeply connects you to the landscape. But in that connection is a sublime beauty. I try to write about these experiences and photograph my community.
+   I write about my experiences on my blog and medium.
 
 
 <p>Inspiration:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
-<p>
 
- <p>Equipment used is a Fuji XPro2 (stills) and XT-3 (video) along with <a href="https://www.fujifilmusa.com/products/digital_cameras/x-lenses/">their fixed x series lenses- 16/23/35/56</a>. Fuji’s system is small weatherproof and very durable. It's sensor captures a gorgeous spectrum of color.  
-   Seasonally ( June-August) I work as a mountain guide<a href="https://www.sanjuanbackcountry.com"> (click to book a trip) </a> in the wilderness of the San Juan mountains of Colorado between 10 and 14 thousand feet in elevation so my camera must fit in a backpack, be lightweight and work in any weather condition. 
-Digitally I keep things minimal using an iPad pro, editing kept to a minimum. With the iPad I've found I can use open source software, Jekyll and Github to maintain this page to record my ideas. The core idea is mobile and self reliant, not needing electricity except what a backpack based solar unit can provide and avoid the use of a laptop or desktop. If I can't do all I need to do on the hood of my truck then it does'nt work.
-
-   <br  />
 <p>
 <strong>Recent work</strong>
   <p> 2018 Back to Malheur: Two Years Later, PBS
