@@ -21,14 +21,15 @@ description: Photography of Jon Kalev
 
 # List of links in the navigation bar
 navbar-links:
-  projects:
+  Work:
+    - Two Dead Girls: "https://twodeadgirls.com/"
     - Save the Kennys: "https://jonkalev.com/gallery/"
     - Malheur: "https://jonkalev.com/gallery/"
     - Alabama's Black Belt: "https://jonkalev.com/gallery/"
     
   Journal: "https://jonkalev.com/2019-12-25-Cows/"
   About: "aboutme"
-  Contact: ""
+ 
 
 
 
@@ -243,7 +244,7 @@ prose:
           help: "Add a thumbnail image to your post."
           placeholder: "Thumbnail"
           alterable: true
-      - name: "published"
+      - name: ""
         field:
           element: "checkbox"
           label: "Publish"
