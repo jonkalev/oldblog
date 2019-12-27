@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bear tracks ....
+title: Bear tracks ?
 subtitle: 
 publish: true
 date: 2019-12-27  
