@@ -13,6 +13,6 @@ date: 2019-12-27
 </figure>
 
 If I am right about what these are, bear tracks, looks like a larger one and a smaller one, its been probably around the turn of the century or 1920's since a bear was last seen on this place. Thats something positive to think about. I'll try to put up a game camera and see if I can feed it.
-Not sure what a bear would eat this time of the year. But stay posted.
+Not sure what a bear would eat this time of the year. <p> Stay posted.
 
 
