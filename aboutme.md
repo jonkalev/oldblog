@@ -14,7 +14,7 @@ published: true
 <i>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</i>
 <p>-Paul Stars
 
-<p> Multidisciplinary visual artist and rancher.
+<p> <strong>Multidisciplinary visual artist and rancher</strong>.
   <p>
     I never thought I would be a rancher, even though my grandfather was a cattleman, as was his, and his father before him.  
     When my life and education led me to the soulless path I changed course and bought my family's ranch.  <p>
@@ -23,7 +23,7 @@ published: true
   
 
 
-<p>Inspiration:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+<p>My Inspirations:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 
