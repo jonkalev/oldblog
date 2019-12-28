@@ -27,7 +27,7 @@ navbar-links:
     - Malheur: "https://jonkalev.com/gallery/"
     - Alabama's Black Belt: "https://jonkalev.com/gallery/"
     
-  Journal: "https://jonkalev.com/2019-12-27-Beartracks/"
+  Journal: "https://jonkalev.com/journal/"
   About: "aboutme"
  
 
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jonlalev.com"  # eg. "https://jonkalev.github.io"
+url-pretty: "jonkalev.com"  # eg. "https://jonkalev.github.io"
 
 # --- Web Statistics Section --- #
 
