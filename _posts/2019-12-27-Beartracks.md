@@ -35,8 +35,10 @@ I ask him what is the advantage to having a wall and he says keep them damn ilel
 He then has to hurry to the bank before it closes his payment on his truck will be late.
 I ask if hes got enough fuel to get to to town. He scowls and drives off.
 You get the picture.
- 
-  For ranching in this environment you have all the right conditions to be a low-cost producer. But your mindset has to be right, paying others to do work you can do yourself does'nt fit that model. 
+<p> 
+  I'm not an economist by no means, but I don't think a good economy is everyone owing money and having to work around the clock to make their payments. Those numbers  look good on paper and the country is hyper-productive but that just doesnt add up to me.
+ <p>
+  Ranching in this environment you have all the right conditions to be a low-cost producer. But your mindset has to be right, paying others to do work you can do yourself does'nt fit that model. 
  Plus in my case there is a added bonus, it beats the gym hands down. My woman has labled me as "faugly" so I figure I can address the "fat" part this way.
   <p> Heres a another thought to consider is that if I hired someone to do my fencing it would probably mean a whole lot less to me.
   Something really meaningful is expensive these days and increasingly hard to come by.
