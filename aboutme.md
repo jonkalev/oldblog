@@ -19,7 +19,7 @@ published: true
     I never thought I would be a rancher, even though my grandfather was a cattleman, as was his, and his father before him.  
     When my life and education led me to the soulless path I changed course and bought my family's ranch.  <p>
     Ranching requires days on end working in solitude.
-    It is hard, physical work that connects you to the land. But in that connection is sublime beauty. I try to write about these experiences and photograph them on this site.
+    It is hard, physical work that connects you to the land. But in that connection is sublime beauty. I try to write about these experiences and photograph them.
   
 
 
