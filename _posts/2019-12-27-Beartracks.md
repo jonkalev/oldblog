@@ -30,18 +30,20 @@ Not sure what a bear would eat this time of the year.
 </figure>
 
   A question I got from a neighbor was "why don't you hire a mexican guy to to do all this".
-Of course he hires everything done by "mexicans" and drives a fancy truck while complaining about the price of cattle and all the payments he has to make. I'm pretty apolitical - they are uniformly corrupt and inefficient regardless of party IMO. But this guy has Trump stickers front and rear. He quit wearing a cowboy hat for a MAGA ballcap. So I ask ( playing naive) hows the wall going, he then goes on and one about the progress then I play really dumb and ask "wont that stop the mexicans that do fencing"? He says "oh no Trump will make sure we have enough illegals."
-I ask him what is the advantage to having a wall and he says keep them damn ilelgals out they are overrunnign the country". I look around and wonder aloud where are they all hiding. Of at your place I forgot doing fencing and doing ranch work. 
+Of course he hires everything done by "mexicans" and drives a fancy truck while complaining about the price of cattle and all the payments he has to make. I'm pretty apolitical - they (politicians) are uniformly corrupt and inefficient regardless of party IMO. But this guy has Trump stickers front and rear, its so bad he quit wearing a cowboy hat for a MAGA ballcap. So I ask (playing naive) hows the wall going, he then goes on and one about the progress then I play really dumb and ask "won't that stop the mexicans that do fencing"? He says "oh no Trump will make sure we have enough illegals."
+Bingo.
+<p>
+I ask him what is the advantage to having a wall and he says "keep them damn illegals out they are overrunning the country". I look around and wonder aloud where are they all hiding. Oh they are at your place I forgot doing fencing and ranch work". 
 He then has to hurry to the bank before it closes his payment on his truck will be late.
-I ask if hes got enough fuel to get to to town. He scowls and drives off.
+I ask if hes got enough fuel to get to town. He scowls and drives off.
 You get the picture.
 <p> 
-  I'm not an economist by no means, but I don't think a good economy is everyone owing money and having to work around the clock to make their payments. Those numbers  look good on paper and the country is hyper-productive but that just doesnt add up to me.
+  I'm not an economist by no means, but I don't think a good economy is everyone owing money and having to work around the clock to make their payments. Those numbers look good on paper and the country appears hyper-productive but that just doesnt add up to me.
  <p>
-  Ranching in this environment you have all the right conditions to be a low-cost producer. But your mindset has to be right, paying others to do work you can do yourself does'nt fit that model. 
- Plus in my case there is a added bonus, it beats the gym hands down. My woman has labled me as "faugly" so I figure I can address the "fat" part this way.
-  <p> Heres a another thought to consider is that if I hired someone to do my fencing it would probably mean a whole lot less to me.
-  Something really meaningful is expensive these days and increasingly hard to come by.
+  Ranching in this environment you have all the right conditions to be a low-cost producer. But your mindset has to be right, paying others to do work you can do yourself does'nt fit that model. Nor does making payments on 70K trucks.
+ Plus in my case there is a added bonus, it beats the gym hands down. My woman has labled me as "faugly" so I figure I can address the "fat" part this way and avoid crossfit.
+  <p> Heres another thought to consider is that if I hired someone to do my fencing it would probably mean a whole lot less to me.
+  Something really meaningful is expensive these days and increasingly hard to come by. Ranching has meaning and then some.
  <p>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/IMG_1395+copy.jpg">
 <p>
