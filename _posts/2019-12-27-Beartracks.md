@@ -22,7 +22,11 @@ Not sure what a bear would eat this time of the year.
  On the cabin front I have the road cut in to the site. I am learning fencing this area is not for the weak. 
   I'm also reminded just how out of shape I am after working for a desk half the past year in Wyoming.
   My setup is not ideal but a few techniques that will save you some heartache and cut up hands and arms.
-  I am pulling my wire tight with a Kubota RTV then tying it off on one end and making my way along the fence posts using clips. A question I got from a neighbor was why don't you hire a guy to to do all this.
+  I am pulling my wire tight with a Kubota RTV then tying it off on one end and making my way along the fence posts using clips. 
+  <p>
+    <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20191225-DSCF2638.JPG">
+    <p>
+  A question I got from a neighbor was why don't you hire a guy to to do all this.
 Of course he hires everything done and drives a fancy truck while complaining about the price of cattle and all the payments he has to make. You get the picture.
  
   For ranching in this environment you have all the right tools to be a low-cost producer. Paying others to do work you can do yourself does'nt fit that model. Plus it beats the gym hands down. My woman has labled me as "faugly" so I figure I can cut the "fat" part of that out this way.
