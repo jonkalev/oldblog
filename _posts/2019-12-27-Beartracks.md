@@ -22,6 +22,10 @@ Not sure what a bear would eat this time of the year.
   My set up is not ideal but a work in porogress. First you have to have the right tools, then you have to have patience and understand a few techniques that will save you some heartache and cut up hands and arms.
   I am pulling the wire tight with a Kubota RTV then tying it off on one end and making my way along the fence posts using clips.
   
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/IMG_1395+copy.jpg">
+<p>
+  
+
   One of the betetr set of videos I can recommend are by a rancher in the badlands named Luke on you tube that has it down pat and can offer you several little techniques that will save you alot of heartache.
   
 
