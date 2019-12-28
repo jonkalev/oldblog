@@ -30,7 +30,10 @@ Not sure what a bear would eat this time of the year.
 </figure>
 
   A question I got from a neighbor was "why don't you hire a mexican guy to to do all this".
-Of course he hires everything done by "mexicans" and drives a fancy truck while complaining about the price of cattle and all the payments he has to make. Im pretty apolitical - they are unoformly corrupt and inefficiant regardless of party IMO. But this guy has TRump stcikers frotn and rear. So I ask hows the wall going, he goes on and one about the prigress then I play dumb and ask "wont that stop the mexicans that do fencing"? He says "oh no Trump will make sure we have enough illegals."
+Of course he hires everything done by "mexicans" and drives a fancy truck while complaining about the price of cattle and all the payments he has to make. I'm pretty apolitical - they are uniformly corrupt and inefficient regardless of party IMO. But this guy has Trump stickers front and rear. He quit wearing a cowboy hat for a MAGA ballcap. So I ask ( playing naive) hows the wall going, he then goes on and one about the progress then I play really dumb and ask "wont that stop the mexicans that do fencing"? He says "oh no Trump will make sure we have enough illegals."
+I ask him what is the advantage to having a wall and he says keep them damn ilelgals out they are overrunnign the country". I look around and wonder aloud where are they all hiding. Of at your place I forgot doing fencing and doing ranch work. 
+He then has to hurry to the bank before it closes his payment on his truck will be late.
+I ask if hes got enough fuel to get to to town. He scowls and drives off.
 You get the picture.
  
   For ranching in this environment you have all the right conditions to be a low-cost producer. But your mindset has to be right, paying others to do work you can do yourself does'nt fit that model. 
