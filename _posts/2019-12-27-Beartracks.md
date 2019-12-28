@@ -43,9 +43,10 @@ You get the picture.
  <p>
   On a economic note ranching in this environment has all the right conditions to be a low-cost producer. But your mindset has to be right, paying others to do work you can do yourself does'nt fit that model. Nor does making payments on 70K trucks and having a wall fetish.
    <p>
- Plus in my case there is a added bonus, it beats the gym hands down. My woman has labled me as "faugly" so I figure I can address the "fat" part this way and avoid crossfit (which btw is a code words for torture to men by women).
+ Plus in my case there is a added bonus, it beats the gym hands down. My woman has labled me as "faugly" so I figure I can address the "fat" part this way and avoid crossfit (which btw is a code words for torture to men by women). So far I have not found a cure for "ugly".
   <p> Heres another thought to consider is if I hired someone to do my fencing it would probably mean a whole lot less to me.
-  Something really meaningful is expensive these days and increasingly hard to come by. Ranching has meaning and then some.
+  Something really meaningful is expensive these days and increasingly hard to come by. 
+    <p>Ranching has meaning and then some.
  <p>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/IMG_1395+copy.jpg">
 <p>
