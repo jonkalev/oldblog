@@ -15,7 +15,7 @@ date: 2019-12-27
 If I'm right about what these are, bear tracks, it looks like a larger one and a smaller one. Its been probably around the turn of the century or 1920's since a bear was last seen on this place. Thats something environmentally positive to think about. I'll try to put up a game camera and see if I can feed it.
 Not sure what a bear would eat this time of the year. 
 <p> 
-  Stay posted.
+  Stay posted forbear updates.
   <p>
     <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20191225-DSCF2643.jpg">
 <p>
@@ -29,8 +29,9 @@ Not sure what a bear would eat this time of the year.
 <figcaption>Clean, simple and wire tight, horns up is what you want</figcaption>
 </figure>
 
-  A question I got from a neighbor was why don't you hire a guy to to do all this.
-Of course he hires everything done and drives a fancy truck while complaining about the price of cattle and all the payments he has to make. You get the picture.
+  A question I got from a neighbor was "why don't you hire a mexican guy to to do all this".
+Of course he hires everything done by "mexicans" and drives a fancy truck while complaining about the price of cattle and all the payments he has to make. Im pretty apolitical - they are unoformly corrupt and inefficiant regardless of party IMO. But this guy has TRump stcikers frotn and rear. So I ask hows the wall going, he goes on and one about the prigress then I play dumb and ask "wont that stop the mexicans that do fencing"? He says "oh no Trump will make sure we have enough illegals."
+You get the picture.
  
   For ranching in this environment you have all the right conditions to be a low-cost producer. But your mindset has to be right, paying others to do work you can do yourself does'nt fit that model. 
  Plus in my case there is a added bonus, it beats the gym hands down. My woman has labled me as "faugly" so I figure I can address the "fat" part this way.
