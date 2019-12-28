@@ -28,7 +28,7 @@ Not sure what a bear would eat this time of the year.
     <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20191225-DSCF2638.JPG">
 <figcaption>Clean, simple and wire tight, horns up is what you want</figcaption>
 </figure>
-
+<p>
  A question I got from a neighbor was "why don't you hire a Mexican guy to do all this".
 Of course, he hires everything done by "Mexicans" and drives a fancy truck while complaining about the price of cattle and all the payments he has to make. I'm pretty apolitical - they (politicians) are uniformly corrupt and inefficient regardless of party IMO. The sooner you learn its a process issue and not candidate or party issue the better off you will be. But this guy has Trump stickers front and rear, its so bad he quit wearing a cowboy hat for a MAGA ballcap. So I ask (naively) hows the wall going, he then goes on and one about the progress then I play really dumb and ask "won't that stop the Mexicans that do fencing"? He says "oh no Trump will make sure we have enough illegals."
 
