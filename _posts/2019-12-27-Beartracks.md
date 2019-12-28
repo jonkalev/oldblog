@@ -41,9 +41,7 @@ Of course he hires everything done and drives a fancy truck while complaining ab
 <p>
  <img src=" https://jonkalev.s3-us-west-2.amazonaws.com/20191225-DSCF2696+copy.jpg">
 
-  For reference one of the better video series I can recommend are by a rancher in the North Dakota named Luke on youtube that has it down pat and can offer you several little techniques I can vouch for that will save you some heartache.
+  For reference one of the better videos I can recommend are by <href="https://www.youtube.com/watch?v=FQdBK-xWtnA">a rancher in the North Dakota named Luke</a> on youtube that has it down pat and can offer you several little techniques I can vouch for that will save you some heartache.
   
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=b2r2Mj6g4-w?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
 
