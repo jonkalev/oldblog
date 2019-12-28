@@ -26,7 +26,7 @@ Not sure what a bear would eat this time of the year.
   <p>
     <figure>
     <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20191225-DSCF2638.JPG">
-<figcaption>Nice clean simple and wire tight</figcaption>
+<figcaption>Clean, simple and wire tight, horns up is what you want</figcaption>
 </figure>
 
   A question I got from a neighbor was why don't you hire a guy to to do all this.
