@@ -216,7 +216,7 @@ img {
   position: relative;
 }
 .navbar-custom .nav .navlinks-parent:after {
-  content: " \";
+  content: "";
 }
 .navbar-custom .nav .navlinks-children {
   width: 100%;
