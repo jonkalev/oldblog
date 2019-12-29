@@ -54,7 +54,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 180px;
+    padding-top: 80px;
   }
 }
 
