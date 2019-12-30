@@ -19,11 +19,11 @@ published: true
     I never thought I would be a rancher, even though my grandfather was a cattleman, as was his, and his father before him.  
     When my life and education led me to the soulless path I changed course and bought my family's ranch.  <p>
     Ranching requires days on end working in solitude.
-    It is hard, physical work that connects you to the land. But in that connection is sublime beauty. I try to write about these experiences and photograph them.
+    It is hard, physical work that connects you to the land, in that connection is sublime beauty. I write about these experiences and photograph them.
   
 
 
-<p>My Inspirations:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
+<p>Inspirations:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
 
   <br  />
 
