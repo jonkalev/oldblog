@@ -12,7 +12,7 @@ published: true
   </figure>
 <br  />
 <blockquote>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.
-<p>-Paul F. Starrs</blockquote>
+Paul F. Starrs</blockquote>
 
 <p> <strong>Multidisciplinary visual artist and rancher</strong>.
   <p>
