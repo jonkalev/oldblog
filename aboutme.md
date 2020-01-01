@@ -11,7 +11,7 @@ published: true
   <figcaption> Calving season at Mathison's Pond</figcaption>
   </figure>
 <br  />
-<i>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</i>
+<blockquote>The dark space is ranching, ranching's realm is really then, definable as where most people are absent.</blockquote>
 <p>-Paul F. Starrs
 
 <p> <strong>Multidisciplinary visual artist and rancher</strong>.
