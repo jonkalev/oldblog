@@ -89,5 +89,7 @@ Its all very fucking sad.
 
 
 
-<a href="https://www.verywellmind.com/identify-and-cope-with-emotional-abuse-4156673/">Here is some advice </a>that might help people who are experiencing emotional abuse. Learn what you can and distance yourself from those that do this to your family. Whatever you do... DO NOT accept it or make excuses for it.
+<a href="https://www.verywellmind.com/identify-and-cope-with-emotional-abuse-4156673/">Here is some advice </a>that might help people who are experiencing emotional abuse. Learn what you can and distance yourself from those that do this to your family. 
+
+Whatever you do... DO NOT accept it or make excuses for it.
 
