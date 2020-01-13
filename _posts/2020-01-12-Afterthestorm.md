@@ -22,8 +22,10 @@ The word “bully” is not remotely adequate.
 Now I am tasked with caring for these people - the one who bullied and the one who was bullied.
 
 I wish I could say I have anything to offer others. 
+
 But I don’t.
 I wish I could find some good in it. 
+
 But I don’t.
 
 In the photo above the ground is wet and muddy, water contaminated by urine and feces runs across the open ground.
