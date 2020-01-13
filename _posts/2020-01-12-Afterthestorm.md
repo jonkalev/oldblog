@@ -31,6 +31,12 @@ There is no sunlight or new day, just mud and fog.
 If there is enough ground, and rainwater, the toxic is diluted to a point where it nourishes new life. 
 But that takes time.
 
+<figure>
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_fireants.jpg">
+<figcaption> Fire ants on the move after surviviving the rain</figcaption>
+</figure>
+
+
 Perhaps as we witness the suffering of others and more importantly confront the suffering they have caused in us there is hope of something brighter, clearer and less painful moments.
 
 That could also well be wishful thoughts that never come true.
@@ -42,9 +48,15 @@ You cannot regain those which are purposely filled with memories by others you w
 </figure>
 Contrary to what religions teach you stealers of life should not be forgiven.
 The selfishness of those that have robbed you of life’s precious moments cannot remain unspoken.
+Imagine all day long your crippled kother has one little dog beside her to support her but dozens of times a day the dog is criticized and ridiculed and shes told the mutt should be in the house and is of no use.
+How does on eexplian such cruelty?
 
 All to feed their own ego so they could tell others what to do and imagine they matter more than they do. 
 Very fucking sad.
+<figure>
+https://jonkalev.s3-us-west-2.amazonaws.com/20200113_Wren1.jpg
+  <figcaption>My mother's therapy dog Wren, at speed</figcaption>
+</figure>
 
 The only advice I can give a young person is run as far away both physically and emotionally as you can from emotionally abusive people.
 Then never come back. 
