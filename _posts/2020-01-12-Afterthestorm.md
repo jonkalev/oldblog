@@ -54,7 +54,7 @@ How does on eexplian such cruelty?
 All to feed their own ego so they could tell others what to do and imagine they matter more than they do. 
 Very fucking sad.
 <figure>
-https://jonkalev.s3-us-west-2.amazonaws.com/20200113_Wren1.jpg
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_Wren1.jpg">
   <figcaption>My mother's therapy dog Wren, at speed</figcaption>
 </figure>
 
@@ -71,6 +71,10 @@ Tell them to mail you the obituary and take your time in deciding when to read i
 In fact stare at it a while then throw it away.
 
 All because people are scared to face the truth.
+<figure>
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_trees.jpg">
+    <figcaption>Monster trees in the rain, they used to scare me now they save me</figcaption>
+</figure>
 
 I don’t have a choice as I see my mother bedridden from a horrible stroke for the remainder of her life. She was less important than a ball game and not important enough to be carried to a hospital until the next day.
 After having a stroke.
