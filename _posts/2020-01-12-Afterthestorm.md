@@ -39,7 +39,7 @@ That takes time.
 
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_fireants.jpg">
-<figcaption> Fire ants on the move after surviviving the rain, their home destroyed</figcaption>
+<figcaption> Fire ants on the move after surviviving the rain</figcaption>
 </figure>
 
 
@@ -78,7 +78,7 @@ Then never come back.
 I mean never.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200112_Micco.jpg">
-  <figcaption>My loyal companion a puppy named Micco</figcaption>
+  <figcaption>My loyal companion a Belgian Malinois named Micco</figcaption>
 </figure>
 Count on no one to help you.
 Tell them to mail you the obituary and take your time in deciding when to read it because you know it will be a lie.
