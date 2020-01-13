@@ -42,7 +42,7 @@ But that takes time.
 </figure>
 
 
-Perhaps as we witness the suffering of others and more importantly confront the suffering they have caused there is hope of something brighter, clearer and less painful.
+Perhaps as we witness the suffering of others, and more importantly confront the suffering they have caused, there is hope of something brighter, clearer and less painful.
 
 That could also well be wishful thoughts that never come true if you die before you have a chance to live.
 That doesn't change the fact that there are only a finite number of moments in life.
