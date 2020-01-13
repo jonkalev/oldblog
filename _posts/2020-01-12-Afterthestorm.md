@@ -34,7 +34,7 @@ There is no sunlight or new day, just mud and fog.
 
 If there is enough ground, and rainwater, the toxic soil is diluted to a point where it nourishes new life. 
 
-But that takes time.
+That takes time.
 
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_fireants.jpg">
@@ -42,22 +42,28 @@ But that takes time.
 </figure>
 
 
-Perhaps as we witness the suffering of others, and more importantly confront the suffering they have caused, there is hope of something brighter, clearer and less painful.
+Perhaps as we witness the suffering of others, and more importantly confront the suffering they have caused, there is hope of something brighter and less painful.
 
 That could also well be wishful thoughts that never come true if you die before you have a chance to live.
+
 That doesn't change the fact that there are only a finite number of moments in life.
 You cannot regain those which are purposely filled with memories by others you would like to forget.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200112_Bearcage.jpg">
 <figcaption>No one can explain to me why we have a bear cage on our place or how it got here</figcaption>
 </figure>
-Contrary to what religions teach you stealers of life should not be forgiven.
+Contrary to what religions teach you stealers of life should never be forgiven.
+
+Their cruelty never forgotten.
+
 The selfishness of those that have robbed you of life’s precious moments cannot remain unspoken.
+
 Imagine all day long your crippled mother has one little dog beside her to support her but dozens of times a day the dog is criticized, swattwed at and ridiculed. Shes told the mutt should notbe in the house and is of no use.
 
-How does one explain such cruelty?
+How does one explain such ?
 
 All to feed their own ego so they could tell others what to do and imagine they matter more than they do. 
+
 Very fucking sad.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_Wren1.jpg">
