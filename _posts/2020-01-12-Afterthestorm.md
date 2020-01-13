@@ -25,10 +25,12 @@ I wish I could say I have anything to offer others.
 But I don’t.
 I wish I could find some good in it. 
 But I don’t.
+
 In the photo above the ground is wet and muddy, water contaminated by urine and feces runs across the open ground.
 There is no sunlight or new day, just mud and fog.
 
-If there is enough ground, and rainwater, the toxic is diluted to a point where it nourishes new life. 
+If there is enough ground, and rainwater, the toxic soil is diluted to a point where it nourishes new life. 
+
 But that takes time.
 
 <figure>
@@ -37,10 +39,10 @@ But that takes time.
 </figure>
 
 
-Perhaps as we witness the suffering of others and more importantly confront the suffering they have caused in us there is hope of something brighter, clearer and less painful moments.
+Perhaps as we witness the suffering of others and more importantly confront the suffering they have caused there is hope of something brighter, clearer and less painful.
 
-That could also well be wishful thoughts that never come true.
-That doesn't change the fact that there are only a finite number of moments life.
+That could also well be wishful thoughts that never come true if you die before you have a chance to live.
+That doesn't change the fact that there are only a finite number of moments in life.
 You cannot regain those which are purposely filled with memories by others you would like to forget.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200112_Bearcage.jpg">
@@ -48,8 +50,9 @@ You cannot regain those which are purposely filled with memories by others you w
 </figure>
 Contrary to what religions teach you stealers of life should not be forgiven.
 The selfishness of those that have robbed you of life’s precious moments cannot remain unspoken.
-Imagine all day long your crippled kother has one little dog beside her to support her but dozens of times a day the dog is criticized and ridiculed and shes told the mutt should be in the house and is of no use.
-How does on eexplian such cruelty?
+Imagine all day long your crippled mother has one little dog beside her to support her but dozens of times a day the dog is criticized, swattwed at and ridiculed. Shes told the mutt should notbe in the house and is of no use.
+
+How does one explain such cruelty?
 
 All to feed their own ego so they could tell others what to do and imagine they matter more than they do. 
 Very fucking sad.
@@ -76,7 +79,7 @@ All because people are scared to face the truth.
     <figcaption>Monster trees in the rain, they used to scare me as a child, now they save me</figcaption>
 </figure>
 
-I don’t have a choice as I see my mother bedridden from a horrible stroke for the remainder of her life. She was less important than a ball game and not important enough to be carried to a hospital until the next day.
+I don’t have a choice as I see my mother, bedridden from a horrible stroke for the remainder of her life. She was less important than a ball game and not important enough to be carried to a hospital until the next day.
 After having a stroke.
 
 Its all very fucking sad.
