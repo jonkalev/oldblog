@@ -33,7 +33,7 @@ Perhaps as we witness the suffering of others and more importantly confront the 
 
 That could also well be wishful thoughts that never come true.
 That doesn't change the fact that there are only a finite number of moments life.
-You cannot regain those which are purposely filled with horrific memories one would do anything to forget.
+You cannot regain those which are purposely filled with memories by others you would like to forget.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200112_Bearcage.jpg">
 <figcaption>No one can explain to me why we have a bear cage on our place or how it got here</figcaption>
