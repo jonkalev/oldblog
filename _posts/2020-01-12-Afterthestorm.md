@@ -82,6 +82,8 @@ Count on no one to help you.
 Tell them to mail you the obituary and take your time in deciding when to read it because you know it will be a lie.
 In fact stare at it a while then throw it away.
 
+Deny them in death what they sought in life.
+
 All because people are scared to face the truth.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_trees.jpg">
