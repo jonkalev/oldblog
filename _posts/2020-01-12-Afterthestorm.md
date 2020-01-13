@@ -33,7 +33,7 @@ But that takes time.
 
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_fireants.jpg">
-<figcaption> Fire ants on the move after surviviving the rain</figcaption>
+<figcaption> Fire ants on the move after surviviving the rain, their home destroyed</figcaption>
 </figure>
 
 
@@ -79,7 +79,7 @@ All because people are scared to face the truth.
 I don’t have a choice as I see my mother bedridden from a horrible stroke for the remainder of her life. She was less important than a ball game and not important enough to be carried to a hospital until the next day.
 After having a stroke.
 
-Very fucking sad.
+Its all very fucking sad.
 
 
 
