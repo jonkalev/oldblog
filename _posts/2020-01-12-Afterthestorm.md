@@ -29,10 +29,10 @@ I wish I could find some good in it.
 
 But I don’t.
 
-In the photo above the ground is wet and muddy, water contaminated by urine and feces runs across the open ground.
+In the photo above the ground is wet and muddy, water contaminated by urine and feces.
 There is no sunlight or new day, just mud and fog.
 
-If there is enough ground, and rainwater, the toxic soil is diluted to a point where it nourishes new life. 
+If there is enough ground, and rainwater, the toxic is diluted to a point where it nourishes new life. 
 
 That takes time.
 
