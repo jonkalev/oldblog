@@ -16,6 +16,7 @@ date: 2020-01-12
 After the storm.
 
 This photo, not a particularly good one, represents much to me.
+
 I have listened to the rantings of man all his life that has told others what to do, how to do it and been nothing but critical and controlling. 
 The word “bully” is not remotely adequate.
 
