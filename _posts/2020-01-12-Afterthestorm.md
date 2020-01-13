@@ -31,23 +31,24 @@ But that takes time.
 
 Perhaps as we witness the suffering of others and more importantly confront the suffering they have caused in us there is hope of something brighter, clearer and less painful moments.
 
-That could also well be wishful thoughts that never come true. 
-That doesn't change the fact that there are only a  finite number of moments life offers us.
+That could also well be wishful thoughts that never come true.
+That doesn't change the fact that there are only a finite number of moments life.
 You cannot regain those which are purposely filled with horrific memories one would do anything to forget.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200112_Bearcage.jpg">
-<figcaption>Noone can explain to me why we have a bear cage on our place</figcaption>
+<figcaption>No one can explain to me why we have a bear cage on our place or how it got here</figcaption>
 </figure>
-The stealers of life should not be forgiven.
+Contrary to what religions teach you stealers of life should not be forgiven.
 The selfishness of those that have robbed you of life’s precious moments cannot remain unspoken.
 
-All to feed their own ego so could tell others what to do. Very fucking sad.
+All to feed their own ego so they could tell others what to do and imagine they matter more than they do. 
+Very fucking sad.
 
 The only advice I can give a young person is run as far away both physically and emotionally as you can from emotionally abusive people.
 Then never come back. I mean never.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200112_Micco.jpg">
-  <figcaption>My loyal companion a pup named Micco</figcaption>
+  <figcaption>My loyal companion a puppy named Micco</figcaption>
 </figure>
 Count on no one to help you.
 Tell them to mail you the obituary and take your time in deciding when to read it because you know it will be a lie.
@@ -62,5 +63,5 @@ Very fucking sad.
 
 
 
-<a href="https://www.verywellmind.com/identify-and-cope-with-emotional-abuse-4156673/">Here is some good advice </a>that is good that might can help young people who are experiencign emotional abuse. Learn what you can and distance yourself from those that do this to your family. Whatever you do DO NOT spend a life accepting it and making excuses for it.
+<a href="https://www.verywellmind.com/identify-and-cope-with-emotional-abuse-4156673/">Here is some advice </a>that might help people who are experiencing emotional abuse. Learn what you can and distance yourself from those that do this to your family. Whatever you do... DO NOT accept it or make excuses for it.
 
