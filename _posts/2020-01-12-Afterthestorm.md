@@ -73,7 +73,7 @@ In fact stare at it a while then throw it away.
 All because people are scared to face the truth.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_trees.jpg">
-    <figcaption>Monster trees in the rain, they used to scare me now they save me</figcaption>
+    <figcaption>Monster trees in the rain, they used to scare me as a child, now they save me</figcaption>
 </figure>
 
 I don’t have a choice as I see my mother bedridden from a horrible stroke for the remainder of her life. She was less important than a ball game and not important enough to be carried to a hospital until the next day.
