@@ -99,6 +99,7 @@ After having a stroke.
 
 Its all very fucking sad.
 
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_horse.jpg">
 
 
 <a href="https://www.verywellmind.com/identify-and-cope-with-emotional-abuse-4156673/">Here is some advice </a>that might help people who are experiencing emotional abuse. Learn what you can and distance yourself from those that do this to you or your family. 
