@@ -37,6 +37,7 @@ If there is enough ground, and rainwater, the toxic is diluted to a point where 
 
 That takes time.
 
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_cow.jpg">
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_fireants.jpg">
 <figcaption> Fire ants on the move after surviviving the rain</figcaption>
