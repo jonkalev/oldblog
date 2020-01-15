@@ -18,13 +18,12 @@ published: true
 <p> <strong>Multidisciplinary visual artist and rancher</strong>.
   <p>
     I never thought I would be a rancher, even though my grandfather was a cattleman, as was his, and his father before him.  
-    When my life and education led me to the soulless path I changed course and bought my family's ranch.  <p>
+    When life and education led me down the soulless path I changed course and bought my family's ranch.  <p>
     Ranching requires days on end working in solitude.
     It is hard, physical work that connects you to the land, in that connection though is a sublime beauty. I write about these experiences on my blog.
       
       
-  My choice to pick up a camera came after having a brain anneursym and stroke. In the process of recovering I saw what can best be described as compositions in images before I had never seen before, compelling me to photograph and sketch them. To this day they have never gone away and speak. 
-
+  My choice to pick up a camera came after having a brain anneursym and stroke. In the process of recovering I saw what can best be described as compositions in images before I had never seen before, compelling me to photograph them. 
 
 
 <p>Inspirations:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
