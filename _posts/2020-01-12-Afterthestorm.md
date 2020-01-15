@@ -58,11 +58,15 @@ Contrary to what religions teach you stealers of life should never be forgiven.
 
 Their cruelty never forgotten.
 
-The selfishness of those that have robbed you of life’s precious few moments cannot remain unspoken.
+The selfishness of those that have robbed others of life’s precious few moments cannot remain unspoken.
+Selfishness in this context is evil.
+And the essence of evil is the imposition of the will. If we take something from somebody against their will - their life, their property, their dignity, their humanity  - this is clearly evil.
 
-Imagine all day long your crippled mother has one little dog beside her to support her but dozens of times a day the dog is criticized, swatted at and ridiculed. Shes told "the mutt should not be in the house and is of no use".
+But also it is an act of evil to try to control another’s behaviour through fear or guilt or other forms of deliberate manipulation.
 
-How does one explain such ?
+Imagine all day your crippled mother has one little dog beside her to support her but dozens of times a day the dog is criticized, swatted at and ridiculed. Shes told "the mutt should not be in the house and is of no use".
+
+How does one explain how this not evil?
 
 All to feed their own ego so they could tell others what to do and imagine they matter more than they do. 
 
