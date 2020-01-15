@@ -50,10 +50,7 @@ That could also well be wishful thoughts that never come true if you die before 
 
 That doesn't change the fact that there are only a finite number of moments in life.
 You cannot regain those which were purposely filled with memories by others you would like to forget.
-<figure>
-<img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200112_Bearcage.jpg">
-<figcaption>No one can explain to me why we have a bear cage on our place or how it got here</figcaption>
-</figure>
+
 Contrary to what religions teach you stealers of life should never be forgiven.
 
 Their cruelty never forgotten.
@@ -73,7 +70,7 @@ All to feed their own ego so they could tell others what to do and imagine they 
 Very fucking sad.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_Wren1.jpg">
-  <figcaption>My mother's therapy dog Wren, at speed</figcaption>
+  <figcaption>My mother's little therapy dog "Wren", at speed</figcaption>
 </figure>
 
 The only advice I can give a young person is run as far away both physically and emotionally as you can from emotionally abusive people.
