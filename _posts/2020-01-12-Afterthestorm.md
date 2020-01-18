@@ -67,7 +67,7 @@ How does one explain how this not evil?
 
 All to feed their own ego so they could tell others what to do and imagine they matter more than they do. 
 
-Very fucking sad.
+Very sad.
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_Wren1.jpg">
   <figcaption>My mother's little therapy dog "Wren", at speed</figcaption>
@@ -98,7 +98,7 @@ I don’t have a choice as I see my mother, bedridden from a horrible stroke for
 
 After having a stroke.
 
-Its all very fucking sad.
+Its all very sad.
 
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_horse.jpg">
 
