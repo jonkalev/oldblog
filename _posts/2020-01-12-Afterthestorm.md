@@ -54,8 +54,8 @@ You cannot regain those which were purposely filled with memories by others you 
 Contrary to what religions teach you stealers of life should never be forgiven.
 
 Their cruelty never forgotten.
-
-The selfishness of those that have robbed others of life’s precious few moments cannot remain unspoken.
+Scriptures give us ways to think about these things that plainly seek to elevate our humanity, if in some small way this conflict with what we experience in life elevates my faith.
+But I struggle that the selfishness of those that have robbed others of life’s precious few moments cannot remain unspoken.
 Selfishness in this context is evil.
 And the essence of evil is the imposition of the will. If we take something from somebody against their will - their life, their property, their dignity, their humanity  - this is clearly evil.
 
