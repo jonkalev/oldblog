@@ -102,6 +102,12 @@ After having a stroke.
 
 Its all very sad.
 
+Forgiveness does not mean you erase the past, or forget what has happened. 
+It doesn’t even mean the other person will change his behavior — you cannot control that and shouldn't expect it. 
+All it means is that you are letting go of the anger and pain, and moving on to a better place.
+
+That's all I can offer.
+
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200113_horse.jpg">
 
 
