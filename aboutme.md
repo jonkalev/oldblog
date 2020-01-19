@@ -39,8 +39,10 @@ published: true
 <p>2014 The Zilphea Horton Grant by the <a href="https://www.highlandercenter.org">Highlander Foundation</a> used to research and <a href="https://medium.com/@jonbcarroll/leaked-documents-reveal-dothan-police-department-alleged-to-have-planted-drugs-f89109dc196e"> document victims</a> in a community ranked by Harvard's Center for Government Ethics as one of the most corrupt in the nation - Alabama’s 20th judicial district. A book of these photographs, “Save the Kennys” is forthcoming.
 <p>
 Jon Kalev
-  (970) 387-9=8014
-  jonkalev75 "at" gmail.com
+  
+970.387.8014
+
+jonkalev75"at" gmail"dot"com
   <br  />
 <p>
 
