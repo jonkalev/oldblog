@@ -32,7 +32,7 @@ published: true
 
 <p>
 <strong>Recent work</strong>
-  <p> 2018 <a href="http://www.pbs.org/independentlens/videos/back-to-malheur-two-years-later/">Back to Malheur: Two Years Later</a>, PBS (film credit) In this short film a follow up Journalist Hal Herring reflects on both the 41 day standoff and meaning of public land in Amnerica.
+  <p> 2018 <a href="http://www.pbs.org/independentlens/videos/back-to-malheur-two-years-later/">Back to Malheur: Two Years Later</a>, PBS Episode of Independent Lens (film credit) In this follow up to the Malheur Takevoer journalist Hal Herring reflects on both the 41 day standoff and meaning of public land in Amnerica.
   -
   <p>2016 <a href="https://www.pbs.org/video/no-mans-land-trailer-yuftvd/">“No Man’s Land”</a> (film credit) a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon protesting a ranching family’s incarceration. The film was nominated for the Best Documentary at the Denver International Film Festival and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
     
