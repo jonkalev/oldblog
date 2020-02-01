@@ -11,8 +11,8 @@ published: true
 
 body {
   font-family:  'Arapey', serif;
-  font-size: 15px;
-  color: #212121;
+  font-size: 18px;
+  color: #525252;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
