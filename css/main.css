@@ -5,11 +5,12 @@ published: true
 
 @import url("pygment_highlights.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,900");
+@import url('https://fonts.googleapis.com/css?family=Arapey&display=swap');
 
 /* --- General --- */
 
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family:  'Arapey', serif;
   font-size: 15px;
   color: #212121;
   position: relative;
