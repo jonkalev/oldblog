@@ -25,9 +25,9 @@ published: true
       
   My choice to pick up a camera came after having a brain anneursym and stroke. In the process of recovering I saw what can best be described as compositions in images before I had never seen, compelling me to photograph them. 
 <p>
-  Always interested in developing compelling content, especially if it related to rural life and landscapes. Always open to ideas. I work alone, natural light. minimalist approach. Little to no editing in post.
+  Always interested in developing compelling content, especially if it related to rural life and landscapes. Always open to ideas. I work alone, natural light, little or no editing, minimalist approach. 
   
-  I make no effort to market myself, no cold calls, no promos, etc. just word of mouth or if you stumble upon this site.
+  I make no effort to market myself, no cold calls, no promos, etc. just word of mouth or if you stumble upon this site or my instagram account.
 
 
 <p>Inspirations:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
