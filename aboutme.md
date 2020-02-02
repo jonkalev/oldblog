@@ -23,9 +23,9 @@ published: true
     It is hard, physical work that connects you to the land, in that connection though is a sublime beauty. I write about these experiences.
       
       
-  My choice to pick up a camera came after having a brain anneursym and stroke. In the process of recovering I saw what can best be described as compositions in images before I had never seen, compelling me to photograph them. 
+  My choice to pick up a camera came after having a brain anneursym and stroke. In the process of recovery I saw what can best be described as compositions in what I saw in my vision I had never seen, compelling me to photograph them. 
 <p>
-  Always interested in developing compelling content, especially if it related to rural life and landscapes. Always open to ideas. I work alone, natural light, little or no editing, minimalist approach. 
+  I'm always interested in developing compelling content, especially if its portraiture, storytelling or related to  rural life and their landscapes. Always open to ideas. I work alone, natural light, little or no editing, minimalist approach. 
   
   I make no effort to market myself, no cold calls, no promos, etc. just word of mouth or if you stumble upon this site or my instagram account.
 
