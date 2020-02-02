@@ -25,7 +25,7 @@ published: true
       
   My choice to pick up a camera came after having a brain anneursym and stroke. In the process of recovering I saw what can best be described as compositions in images before I had never seen, compelling me to photograph them. 
 <p>
-  Always interested in developing compelling content, especially if it related to rural life and landscapes. Always open to ideas. I work alone, natural light minimalist approach.
+  Always interested in developing compelling content, especially if it related to rural life and landscapes. Always open to ideas. I work alone, natural light. minimalist approach. Little to no editing in post.
   
   I make no effort to market myself, no cold calls, no promos, etc. just word of mouth or if you stumble upon this site.
 
