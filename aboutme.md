@@ -15,7 +15,7 @@ published: true
 <br> Paul F. Starrs
 </blockquote>
 
-<p> <strong>Multidisciplinary visual artist and rancher</strong>.
+<p> <strong>Photographer and rancher</strong>.
   <p>
     I never thought I would be a rancher, even though my grandfather was a cattleman, as was his, and his father before him.  
     When life and education led me down the soulless path I changed course and bought my family's ranch.  <p>
@@ -24,6 +24,9 @@ published: true
       
       
   My choice to pick up a camera came after having a brain anneursym and stroke. In the process of recovering I saw what can best be described as compositions in images before I had never seen, compelling me to photograph them. 
+<p>
+  Always interested in developing compelling content.
+  I do no advertising, promos
 
 
 <p>Inspirations:  <a href="https://en.wikipedia.org/wiki/Jacques_Lacan">Jaques Lacan</a>,  <a href="https://en.wikipedia.org/wiki/Walker_Evans">Walker Evans</a>,  <a href="https://en.wikipedia.org/wiki/Robert_Capa">Robert Capa</a>, <a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a> and <a href="https://www.williamalbertallard.com/">William Allard</a>. 
