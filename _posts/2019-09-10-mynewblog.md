@@ -5,7 +5,7 @@ subtitle:
 bigimg: https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg
 
 ---
-  <figcaption><p style="color:DodgerBlue;"> <i>Silverton Colorado on a moonlit night as viewed from the Miner's shrine</i></p></figcaption>
+  <figcaption><p style="color:LightGray;"> <i>Silverton Colorado on a moonlit night as viewed from the Miner's shrine</i></p></figcaption>
 
 Welcome to my new little blog/journal its entirely open source an partially a experiment in learning jekyll and using github. As time allows I may add my older posts and repopulate it. This system of hosting a site has no database so techincially the old cannot be imported. 
 The hard question I ask myself recently is under what circumstances should we step off a path? When is it essential for our wellbeing.
