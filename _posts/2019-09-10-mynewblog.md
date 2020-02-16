@@ -43,8 +43,9 @@ Success is simply the completion of a soul step, however unsightly it may be. We
 For me I just like the still iamge. Somehow as far as I go astray I find myself looking at things and wanting to take their photograph.
 Nothing has changed. So for me its time to just do that accept that, not allow others to presure me away from that with opportunity.
 
-I'm headed north in the morning, as I'm going to see about spend the winter in Wyoming and work as a planner for six months.
-The real word.
-While I read what Jung Freud James and Rogers have to say and study that self-excavation thing.
+I'm headed north in the morning, as I'm going to see about spend the winter in Wyoming as I've committed work as a planner for six months.
+The real word, while I read what Jung, Freud, James and Rogers have to say about that self-excavation thing.
 
-And let my voice speak only through my visual work, camera in hand.
+And let my voice speak only through my visual work, 
+camera in hand. 
+No newspapering.
