@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Silverton withdrawal syndrome
+title: 
 subtitle: A flatlander I have become.
 ---
 
