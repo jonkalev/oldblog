@@ -9,18 +9,23 @@ bigimg: https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg
 
 Welcome to my new little blog/journal its entirely open source an partially a experiment in learning jekyll and using github. As time allows I may add my older posts and repopulate it. This system of hosting a site has no database so technicially the old cannot be imported. 
 Every eyar at the end of guide season I go and stay a few days at the lake pictured above. Usually there have been a few snows on the high peaks and it gets cold at night. 
-It is a exclelent place to sit by a campfire and stare at a sea of stars at nigth and collect one's thoughts.
-The hard question I ask myself is under what circumstances should we step off a path? When is it essential for our wellbeing ? The past year while exploring moutains I have fought three different lawsuits against a newspaper I wrote for and owned part of. We were sued, not for anything I said or wrote, but for what others we interviewed did about public officials and for victims that spoe of their experiences with courts and law enforcement. 
-Fortunately we prevailed, but I view that as a stroke of luck. Your naive if you believe there is a free press in this country and if you believe that courts at the state level are not at times subject to political influence and money. 
-The first amendment may be something the New York Times or Washington Post can defend but its not something small local newspapers can expect courts to protect.
-What is worth more than you can imagine is the experience of going into a fight with bullies that care less than nothign for the consitution and surviving or scraping out a win.
-Its like a crash course of laws school and therapy warped into one. 
-I have learned much by watching and reading depositions that I never would have known otherwise about how systemically our system is really flawed.
+It is a excellent place to sit by a campfire and stare at a sea of stars and collect one's thoughts.
+The hard question I ask myself is under what circumstances should we step off a path? 
+When is it essential for our wellbeing to stop acting for others and protect yourself? 
 
-I come to this mountains and have for years because they make your mind quiet. They bring focus and can distill your thoughts in a way no drug or temporary success can.
-They always reorient me to my true path and that often goes against the advice of the world
+The past year while exploring mountains and guiding vistors ( i.e trying to not let them kill themselves ) I have have funded a fight of three different lawsuits against a newspaper I wrote for and co-owned. We were sued, not for anything I said or wrote, but for what others we interviewed did about public officials and for victims that spoke of their experiences with courts and law enforcement. 
 
-The truth is no one else can definitively know the path we're here to walk. It’s tempting to listen — many of us long for the omnipotent other—but unless they are genuine psychics, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it. Having the good sense to know that you cannot genuinely know anyone else’s is rare. Only the individual soul knows the path it's here to walk. 
+Fortunately we prevailed, but I view that as a stroke of luck. Your naive if you believe there is a free press in this country and if you believe that courts at the state level are not subject to political influence and money. 
+The first amendment may be something the New York Times or Washington Post can defend but its not something small local newspapers can expect courts to protect. Peope in power who do bad things will spend lots of money to bleed journalists dry to shut them up if they dare expose wrongdoing.
+
+But on the upside is that what is worth more than you can imagine is the experience of going into a fight with bullies that care less about the consitution and scraping out a win.
+Its like a crash course of law school and therapy in one. 
+
+
+I come to this mountain, and have for years because it makes your mind quiet. The peaks and often frozen small lake bring focus and can distill your thoughts in a way no drug or temporary success can.
+I'm always reoriented to my true path.
+
+The truth is no one else can definitively know the path we're here to walk. It’s tempting to listen — many of us long for the omnipotent other — but unless they are genuine psychics, they dont know. All others can know is their own truth, and if they’ve actually done the work to excavate it. Having the good sense to know that you cannot genuinely know anyone else’s is rare. Only the individual soul knows the path it's here to walk. 
 
 At the heart of the struggle I have witnessed are two very different ideas of success, survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others, favorable beliefs about you by others, the importance of being well -liked. 
 Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. 
