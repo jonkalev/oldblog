@@ -9,7 +9,6 @@ bigimg: https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg
 
 Welcome to my new little blog/journal, code wise its entirely open source an experiment in learning jekyll, javascript and using github. As time allows I may add my older posts and repopulate it. But this system of hosting a site on MIT's server has no database so technicially the old cannot be imported. 
 
-<img src="https://jonkalev.s3-us-west-2.amazonaws.com/clearlake-miccofire.jpg">
 
 Every year at the end of guide season I stay a few days at the lake pictured above. Usually its already snowed a few times and it gets cold at night, elevation is around 12,000 ft. 
 It is a great place to sit by a campfire and stare at a sea of stars and collect one's thoughts.
@@ -27,6 +26,7 @@ The first amendment may be something the New York Times or Washington Post can d
 But on the upside what is worth more than you can imagine is the experience of going into a fight with bullies that care less about the consitution and scraping out a win.
 Its like a crash course of law school and therapy or getting a bloody nose and black eye but winning the fight.
 
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/clearlake-miccofire.jpg">
 
 I come to this mountain pictured above because it makes my mind quiet. These peaks and often frozen in summer small lake bring focus and distill my thoughts in a way no drug or temporary success or bank account can.
 I'm always reoriented to my true path in these mountains. 
