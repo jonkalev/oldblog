@@ -1,8 +1,8 @@
 ---
+
 layout: post
 published: true
-title: 
-subtitle: A flatlander I have become.
+title:  A flatlander I have become
 ---
 
   
