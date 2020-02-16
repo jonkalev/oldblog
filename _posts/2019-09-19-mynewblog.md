@@ -2,7 +2,7 @@
 layout: post
 title: My new blog
 subtitle: 
-bigimg: /img/path.jpg
+bigimg: https://jonkalev.s3-us-west-2.amazonaws.com/clearlake_1.jpg
 
 ---
 
