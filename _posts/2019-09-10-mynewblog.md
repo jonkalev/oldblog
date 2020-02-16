@@ -31,8 +31,9 @@ Its like a crash course of law school and therapy or getting a bloody nose and b
 I come to this mountain pictured above because it makes my mind quiet. These peaks and often frozen in summer small lake bring focus and distill my thoughts in a way no drug or temporary success or bank account can.
 I'm always reoriented to my true path in these mountains. 
 They stare at me and I stare back at them.
-
-The truth is no one else can definitively know the path we're here to walk. It’s tempting to listen — many of us long for the omnipotent other — but unless they are genuine psychics, they dont know. All others can know is their own truth, and thats only they’ve actually done the work to excavate it. Having the good sense to know that you cannot genuinely know anyone else’s is rare. 
+These mountains ( maybe is a silvertonian thing) demand one's contiued personal growth that is sometimes painful, even though in the long run rewarding. 
+Every year that passes you hike and climb with less strength but more knowledge. You learn to look for everything your missing that which you dont easily see.  This stripping the world away leave you whats inside you and the mountains staring back, they always know the truth and remind you of it.
+That truth is no one else can definitively know the path we're here to walk. It’s tempting to listen — many of us long for the omnipotent other — but unless they are genuine psychics, they dont know. All others can know is their own truth, and thats only they’ve actually done the work to excavate it. Having the good sense to know that you cannot genuinely know anyone else’s is rare. 
 
 At the heart of the struggle I have witnessed are two very different ideas of success, survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others, favorable beliefs about you by others, the importance of being well -liked and using such for material gain. 
 Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world resides in the hands of younger souls. Still working in the egoic and material realms Jung describes, they love the sensations of power and focus most of their energy on accumulation of things that have no meaning. 
