@@ -26,7 +26,7 @@ With no air conditioning, no radio and an impatient dog you begin to appreciate 
 Importantly for a photographer you have time to slow down turn around and go back to see what you missed and photograph it.
 
 Increasingly I noticed rural America as being abandoned as cities and suburbs continue this resource dependent death spiral. Change is unlikely. Like an addict there will have to be a bottom and crash. 
-Whether life as we know it and what remains of the world’s plant and animal community will survive is doubtful. <ahref="https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds">60% of all animal species thus far have been forced into extinction since 1970 due to human activity.</a>
+Whether life as we know it and what remains of the world’s plant and animal community will survive is doubtful. <a href="https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds">60% of all animal species thus far have been forced into extinction since 1970 due to human activity.</a>
 
 Driving across America at  60 miles per hour in a old land cruiser with no air conditioning and the windows down reminds me people move places for jobs, schools, a life they are brainwashed into thinking its better and bribed with paychecks. 
 
