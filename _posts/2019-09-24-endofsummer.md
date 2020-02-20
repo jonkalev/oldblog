@@ -17,7 +17,7 @@ What I like about the older land cruisers is the windshield is large and puts ev
 
 <figure>
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/20200219_3307.jpg">
-<figcaption> Mavis my 1987 Toyota Land crusier</figcaption>
+
 </figure>
 
 
