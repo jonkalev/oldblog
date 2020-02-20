@@ -43,6 +43,6 @@ I will say this watching one’s parents suffer on a countdown to death takes al
 
 My camera was accumulating dust; I spent every day it seemed trying to figure out how to make things better in an environment that was never going to be better. Being there off and on the past as time allowed caring for them, just being present maybe meant something. 
 
-I don’t know maybe all you can do is bear witness.
+I don’t know maybe all you do is bear witness.
 
 
