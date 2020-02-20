@@ -21,7 +21,12 @@ What I like about the older land cruisers is the windshield is large and puts ev
 </figure>
 
 
-With no air conditioning, no radio and an impatient dog you begin to appreciate things in life. Sounds and smells of the landscape are noticed. You observe America at a different level and speed. Things no longer are a quick blur.
+With no air conditioning, no radio and an impatient dog you begin to appreciate things in life. Sounds and smells of the landscape are noticed. You observe America at a different level and speed. Things no longer are a quick blur. My dog rides with his head out the window and sometiems narks at elk or deer he sees or what I miss.
+<figure>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/20190930_beetle_taurus2.jpg" align="right" width="400">
+<figcaption> Caption</figcaption>
+</figure>
+
 
 Importantly for a photographer you have time to slow down turn around and go back to see what you missed and photograph it.
 
