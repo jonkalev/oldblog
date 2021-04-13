@@ -21,14 +21,17 @@ description: Photography of Jon Kalev
 
 # List of links in the navigation bar
 navbar-links:
+
+ Blog: "https://jonkalev.com/journal"
+ 
   About: "aboutme"
   
   Work:
-    - Two Dead Girls: "https://twodeadgirls.com/"
+    - Dead Girls: "https://twodeadgirls.com/"
     - Save the Kennys: "https://jonkalev.com/gallery/"
-    - Alabama's Black Belt: "https://jonkalev.com/gallery/"
+    - Two Boys in a Well: "https://jonkalev.com/gallery/"
     
-  Journal: "https://jonkalev.com/journal"
+  
 
 
 
@@ -75,8 +78,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
  # rss: true
-  email: "jonkalev75@gmail.com"
+  instagram: jonkalev
   facebook: https://www.facebook.com/johan.kalev.7
+   email: "jonkalev75@gmail.com"
  # github: jonkalev
  # twitter: jonkalev
 #  reddit: yourname
@@ -84,7 +88,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: 
 
-  instagram: jonkalev
+ 
 #  youtube: user/
 #  spotify: yourname
 #  telephone: +
@@ -255,4 +259,4 @@ plugins:
   - jekyll-sitemap
 
 
-# 
+#
