@@ -25,9 +25,9 @@ navbar-links:
  About: "aboutme" 
  
  Work:
-    - Dead Girls: "https://twodeadgirls.com/"
-    - Save the Kennys: "https://jonkalev.com/gallery/"
-    - Two Boys in a Well: "https://jonkalev.com/gallery/"
+    - Dead Girls: "https://jonkalev.com/gallery-twodeadgirls"
+    - Save the Kennys: "https://jonkalev.com/gallery-savethekennys/"
+    - Two Boys in a Well: "https://jonkalev.com/gallery-twoboys/"
     
  Blog: "https://jonkalev.com/journal"
     
