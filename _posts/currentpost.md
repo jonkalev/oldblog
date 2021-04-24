@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Malheur notes and exhibit
-subtitle: 
+title: Malheur notes
 publish: true
-date: 2020-01-22  
+date: 'Tue Jan 21 2020 18:00:00 GMT-0600 (CST)'
+published: true
+'': false
 ---
 
 <figure>
@@ -111,7 +112,3 @@ Hopefully, these photos and notes will offer a glimpse into the people and their
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/malheur_15.jpg">
 <figcaption>Protesters who occupied Malheur that were arrested by the federal government</figcaption>
 </figure>
-
-
-
-
