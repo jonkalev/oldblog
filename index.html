@@ -42,16 +42,16 @@ published: true
 
 <!– some HTML content –>
 <h2>Recent posts</h2>
-<div style="font-family: 'Lato', 'Helvvetica Neue, Helvetica, Arial, sans-serif; font-size: 8px; font-color: #525252;">
+
 
 {% for post in site.posts limit:6 %}
 
 
-<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 
  
 {% endfor %}
-	</div>
+	
 	
 <p>
 
