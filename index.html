@@ -44,9 +44,9 @@ published: true
 <div style="background-color:black;color:white;padding:20px;">
 {% for post in site.posts limit:6 %}
 <div>
-<h3>
+<span style="color:red;font-weight:bold">
 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-</h3>
+</span>
  
 {% endfor %}
 	</div>
