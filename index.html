@@ -41,15 +41,18 @@ published: true
 </div>
 
 <!– some HTML content –>
-Recent posts
+<h1>Recent posts
+	</h2>
+<span style="color:red;font-weight:bold">
 {% for post in site.posts limit:6 %}
 <div>
-<span style="color:red;font-weight:bold">
+
 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-</span>
+
  
 {% endfor %}
 	</div>
+	</span>
 <p>
 
 </p>
