@@ -30,9 +30,7 @@ published: true
 			<img class="gallery-image" src="https://jonkalev.s3-us-west-2.amazonaws.com/malheur_hellboy.jpg" alt="Duane and Hellboy">
 		</div>
 
-		<div class="gallery-item">
-			<img class="gallery-image" src="https://jonkalev.s3-us-west-2.amazonaws.com/9.jpg" alt="Duane and Hellboy">
-		</div>
+	
 
 	<div class="gallery-item">
 			<img class="gallery-image" src="https://jonkalev.s3-us-west-2.amazonaws.com/20171005-Clear+Lake-Pano-Edit.jpg" alt="Duane and Hellboy">
@@ -43,11 +41,11 @@ published: true
 </div>
 
 <!– some HTML content –>
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:6 %}
 <div>
-<h2>
+<h1>
 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-</h2>
+</h1>
  
 {% endfor %}
 
