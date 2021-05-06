@@ -29,9 +29,8 @@ navbar-links:
     - Save the Kennys: "https://jonkalev.github.io/gallery-savethekennys/"
     - Two Boys in a Well: "https://jonkalev.github.io/gallery-twoboys/"
     
- Publications: "https://jonkalev.github.io/blog/"
+ Blog: "https://jonkalev.github.io/blog/"
   
- Blog: "blog"
     
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
