@@ -85,11 +85,26 @@
   <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
   {% endif %}
 
-  {% if page.share-img %}
-  <meta property="og:image" content="{{ page.share-img }}" />
-  {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
-  {% endif %}
+   {%- capture shareimg -%}
+     {% if page.share-img %}
+       {{ page.share-img }}
+     {% elsif page.cover-img %}
+       {% if page.cover-img.first %}
+         {{ page.cover-img[0].first.first }}
+       {% else %}
+         {{ page.cover-img }}
+       {% endif %}
+     {% elsif page.thumbnail-img %}
+       {{ page.thumbnail-img }}
+     {% elsif site.avatar %}
+       {{ site.avatar }}
+     {% endif %}
+   {% endcapture %}
+   {% assign shareimg=shareimg | strip %}
+
+   {% if shareimg != "" %}
+   <meta property="og:image" content="{{ shareimg | absolute_url }}">
+   {% endif %}
 
 
   <!-- Twitter summary cards -->
