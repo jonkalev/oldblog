@@ -2,7 +2,7 @@
 
 
 # Name of website
-title:  Jon Kalev 
+title:  JON KALEV 
 
 # Short description of your site
 description: Rancher / Photographer
@@ -28,6 +28,7 @@ navbar-links:
     - Dead Girls: "https://jonkalev.github.io/gallery-twodeadgirls"
     - Save the Kennys: "https://jonkalev.github.io/gallery-savethekennys/"
     - Two Boys in a Well: "https://jonkalev.github.io/gallery-twoboys/"
+    - Conflict at Malheur: "https://jonkalev.github.io/gallery-twoboys/"
     
  Blog: "https://jonkalev.github.io/blog/"
   
@@ -76,7 +77,7 @@ social-network-links:
  # rss: true
   instagram: jonkalev
   facebook: https://www.facebook.com/johan.kalev.7
-  # email: jonkalev@riseup.net
+  email: jonkalev@riseup.net
  # github: jonkalev
 
 # Select which share links to show in posts
@@ -135,7 +136,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 150
+excerpt_length: 250
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
