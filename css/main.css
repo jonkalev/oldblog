@@ -346,6 +346,10 @@ footer .copyright {
   font-style: italic;
   margin: 0 0 10px;
 }
+.post.preview .post-image img {
+	max-height: 100%;
+	max-width: 100%;
+}
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -372,7 +376,7 @@ footer .copyright {
   width: 192px;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 400;
 }
 
 @media only screen and (min-width: 768px) {
