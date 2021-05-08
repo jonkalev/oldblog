@@ -11,7 +11,7 @@ published: true
 
 body {
   font-family:  'Arapey', serif;
-  font-size: 16px;
+  font-size: 17px;
   color: #525252;
   position: relative;
   background-color: {{ site.page-col }};
