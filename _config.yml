@@ -12,7 +12,7 @@ description: Rancher / Photographer
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: ""
+url: "www.jonkalev.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -28,7 +28,7 @@ navbar-links:
     - Dead Girls: "https://jonkalev.github.io/gallery-twodeadgirls"
     - Save the Kennys: "https://jonkalev.github.io/gallery-savethekennys/"
     - Two Boys in a Well: "https://jonkalev.github.io/gallery-twoboys/"
-    - Conflict at Malheur: "https://jonkalev.github.io/gallery-twoboys/"
+    - Conflict at Malheur: "http://www.jonkalev.com/2020-01-22-Malheur/"
     
  Blog: "https://jonkalev.github.io/blog/"
   
