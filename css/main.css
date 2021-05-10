@@ -53,7 +53,7 @@ hr.small {
 .main-content {
   padding-top: 80px;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 868px) {
   .main-content {
     padding-top: 80px;
   }
@@ -376,7 +376,7 @@ footer .copyright {
   width: 192px;
 }
 .post-preview .post-read-more {
-  font-weight: 400;
+  font-weight: 300;
 }
 
 @media only screen and (min-width: 768px) {
