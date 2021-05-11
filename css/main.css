@@ -322,6 +322,7 @@ footer .copyright {
 .post-preview a {
   text-decoration: none;
   color: #404040;
+  font-size: 18px;
 }
 
 .post-preview a:focus,
