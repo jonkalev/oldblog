@@ -12,7 +12,7 @@ description: Rancher / Photographer
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "www.jonkalev.com"
+url: ""
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -136,7 +136,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 250
+excerpt_length: 350
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
